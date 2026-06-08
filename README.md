@@ -4,21 +4,22 @@ A Flask-based web application that performs CRUD operations without a database a
 
 ## 🚀 Features
 - Add, Update, Delete, View student records
-- ML model predicts Pass/Fail based on study hours, attendance, and assignments
+- ML model predicts Pass/Fail
 - Data stored in CSV file (no database)
-- Simple and clean dashboard UI
+- Simple dashboard UI
+
+## 🧠 Example Output
+<img width="1920" height="877" alt="image" src="https://github.com/user-attachments/assets/9236ff57-e2a1-4b6f-9d18-348d84bcd800" />
+
 
 ## 🛠️ Tech Stack
 - Flask
 - Python (Pandas, NumPy, Scikit-learn)
 - HTML, CSS, Bootstrap
-- CSV file for storage
+- CSV file storage
 
 ## ▶️ Run Project
 ```bash
 pip install flask pandas numpy scikit-learn joblib
 python train_model.py
 python app.py
-
-## Example Output
-<img width="1920" height="877" alt="image" src="https://github.com/user-attachments/assets/34a311fb-435d-47de-8f4c-8571c499d357" />
