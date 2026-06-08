@@ -8,15 +8,14 @@ A Flask-based web application that performs CRUD operations without a database a
 - Data stored in CSV file (no database)
 - Simple dashboard UI
 
-## 🧠 Example Output
-<img width="1920" height="877" alt="image" src="https://github.com/user-attachments/assets/9236ff57-e2a1-4b6f-9d18-348d84bcd800" />
-
-
 ## 🛠️ Tech Stack
 - Flask
 - Python (Pandas, NumPy, Scikit-learn)
 - HTML, CSS, Bootstrap
 - CSV file storage
+
+## 🧠 Example Output
+<img width="1920" height="877" alt="image" src="https://github.com/user-attachments/assets/9236ff57-e2a1-4b6f-9d18-348d84bcd800" />
 
 ## ▶️ Run Project
 ```bash
