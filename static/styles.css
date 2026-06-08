@@ -1,0 +1,80 @@
+body{
+    background:#f4f7fc;
+    font-family:'Segoe UI',sans-serif;
+}
+
+.navbar{
+    padding:15px;
+}
+
+.dashboard-card{
+    border:none;
+    border-radius:15px;
+    transition:0.3s;
+}
+
+.dashboard-card:hover{
+    transform:translateY(-5px);
+}
+
+.card{
+    border-radius:15px;
+}
+
+.card-header{
+    border-bottom:none;
+    padding:20px;
+}
+
+.form-control{
+    padding:12px;
+}
+
+.btn{
+    padding:12px;
+    font-weight:600;
+}
+
+.table td,
+.table th{
+    vertical-align:middle;
+}
+
+.badge-pass{
+    background:#a4eb9c;
+    color:white;
+    padding:8px 12px;
+    border-radius:20px;
+}
+
+.badge-fail{
+    background:#ef4052;
+    color:rgb(231, 103, 103);
+    padding:8px 12px;
+    border-radius:20px;
+}
+
+.edit-btn{
+    background:#ffc107;
+    border:none;
+    color:black;
+    padding:8px 12px;
+    border-radius:6px;
+    margin-right:5px;
+}
+
+.delete-btn{
+    background:#dc3545;
+    border:none;
+    color:white;
+    padding:8px 12px;
+    border-radius:6px;
+}
+
+.edit-btn:hover{
+    opacity:0.9;
+}
+
+.delete-btn:hover{
+    opacity:0.9;
+}

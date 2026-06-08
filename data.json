@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Sowmya",
+        "marks": 50,
+        "attendance": 90,
+        "result": "Fail"
+    },
+    {
+        "name": "sai",
+        "marks": 90,
+        "attendance": 79,
+        "result": "Pass"
+    },
+    {
+        "name": "mydhili ",
+        "marks": 85,
+        "attendance": 75,
+        "result": "Pass"
+    }
+]
